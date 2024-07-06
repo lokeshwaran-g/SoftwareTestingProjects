@@ -13,6 +13,9 @@ Project #2 - Testcase and Test Plan for App.vwo.com
 2. Testcases
 
 
+https://docs.google.com/spreadsheets/d/1C-SgYOpVMwqBHCkrn_PktvKvCqYmzPDxxP6k85VinZI/edit?usp=sharing
+
+
 ![image](https://github.com/lokeshwaran-g/SoftwareTestingProjects/assets/174857402/83ad0807-81c1-43b1-97ae-f4011d8cdbc6)
 
 ![image](https://github.com/lokeshwaran-g/SoftwareTestingProjects/assets/174857402/0cc38e5d-4762-4a9e-bf12-d1209e3a5a39)
